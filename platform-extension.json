@@ -23,7 +23,19 @@
     "numberPrecision": 2
   },
   "algorithmVariableOverrides": [],
-  "tokenOverrides": [],
+  "tokenOverrides": [
+    {
+      "id": "token-7777-7777-7777",
+      "displayName": "My much better black - RED"
+      "valuesByMode": [
+        {
+          "modeIds": [],
+          "value": {
+            "value": "#FF0000"
+        },
+      ]
+    }
+  ],
   "omittedModes": [],
   "omittedDimensions": []
 }
