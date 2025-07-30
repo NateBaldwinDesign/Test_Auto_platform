@@ -35,6 +35,56 @@
           }
         }
       ]
+    },
+    {
+      "id": "token-platform-custom-0000-0000-0000",
+      "displayName": "My Platform Token",
+      "description": "Custom added token for platform",
+      "resolvedValueTypeId": "color",
+      "private": false,
+      "status": "stable",
+      "tokenTier": "PRIMITIVE",
+      "themeable": false,
+      "taxonomies": [
+        {
+          "taxonomyId": "taxonomyId-0000-0000-0000",
+          "termId": "termId-0000-0000-0001"
+        },
+        {
+          "taxonomyId": "taxonomyId-3333-3333-3333",
+          "termId": "termId-2222-2222-2227"
+        }
+      ],
+      "propertyTypes": [
+        {
+          "id": "ALL",
+          "displayName": "All Properties",
+          "category": "layout",
+          "compatibleValueTypes": [
+            "color",
+            "dimension",
+            "font-family",
+            "font-weight",
+            "font-size",
+            "line-height",
+            "letter-spacing",
+            "duration",
+            "cubic-bezier",
+            "blur",
+            "radius"
+          ],
+          "inheritance": false
+        }
+      ],
+      "codeSyntax": [
+      ],
+      "valuesByMode": [
+        {
+          "modeIds": [],
+          "value": {
+            "value": "#FF00FF"
+          }
+      ]
     }
   ],
   "omittedModes": [],
