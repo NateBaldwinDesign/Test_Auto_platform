@@ -81,9 +81,7 @@
       "valuesByMode": [
         {
           "modeIds": [],
-          "value": {
-            "value": "#FF00FF"
-          }
+          "value": { "value": "#FF00FF" }
         }
       ]
     }
