@@ -1,1 +1,91 @@
-{}
+{
+  "systemId": "nates-design-system",
+  "platformId": "platformId-ce32a768-8295-485f-8b5c-ec9f78982735",
+  "version": "1.0.0",
+  "figmaFileKey": "platformId-ce32a768-8295-485f-8b5c-ec9f78982735-figma-file",
+  "metadata": {
+    "name": "Test_Auto_platform",
+    "description": "testing automatic creation",
+    "maintainer": "",
+    "lastUpdated": "2025-07-23",
+    "repositoryVisibility": "private"
+  },
+  "syntaxPatterns": {
+    "prefix": "",
+    "suffix": "",
+    "delimiter": "_",
+    "capitalization": "camel",
+    "formatString": ""
+  },
+  "valueFormatters": {
+    "color": "hex",
+    "dimension": "px",
+    "numberPrecision": 2
+  },
+  "algorithmVariableOverrides": [],
+  "tokenOverrides": [
+    {
+      "id": "token-7777-7777-7777",
+      "displayName": "My much better black - RED",
+      "valuesByMode": [
+        {
+          "modeIds": [],
+          "value": {
+            "value": "#FF0000"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token-platform-custom-0000-0000-0000",
+      "displayName": "My Platform Token",
+      "description": "Custom added token for platform",
+      "resolvedValueTypeId": "color",
+      "private": false,
+      "status": "stable",
+      "tokenTier": "PRIMITIVE",
+      "themeable": false,
+      "taxonomies": [
+        {
+          "taxonomyId": "taxonomyId-0000-0000-0000",
+          "termId": "termId-0000-0000-0001"
+        },
+        {
+          "taxonomyId": "taxonomyId-3333-3333-3333",
+          "termId": "termId-2222-2222-2227"
+        }
+      ],
+      "propertyTypes": [
+        {
+          "id": "ALL",
+          "displayName": "All Properties",
+          "category": "layout",
+          "compatibleValueTypes": [
+            "color",
+            "dimension",
+            "font-family",
+            "font-weight",
+            "font-size",
+            "line-height",
+            "letter-spacing",
+            "duration",
+            "cubic-bezier",
+            "blur",
+            "radius"
+          ],
+          "inheritance": false
+        }
+      ],
+      "codeSyntax": [
+      ],
+      "valuesByMode": [
+        {
+          "modeIds": [],
+          "value": { "value": "#FF00FF" }
+        }
+      ]
+    }
+  ],
+  "omittedModes": [],
+  "omittedDimensions": []
+}
