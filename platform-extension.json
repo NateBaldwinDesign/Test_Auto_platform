@@ -30,7 +30,7 @@
       "displayName": "My much better black - RED",
       "valuesByMode": [
         {
-          "modeIds": [],
+          "modeIds": ['mode-light'],
           "value": {
             "value": "color(display-p3 1 0 0)"
           }
@@ -77,11 +77,9 @@
           "inheritance": false
         }
       ],
-      "codeSyntax": [
-      ],
       "valuesByMode": [
         {
-          "modeIds": [],
+          "modeIds": ['mode-light'],
           "value": { "value": "#FF00FF" }
         }
       ]
