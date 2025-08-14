@@ -28,12 +28,12 @@
   "tokenOverrides": [
     {
       "id": "token-7777-7777-7777",
-      "displayName": "My much better black - RED",
+      "displayName": "My much better black - SOMEHTING ELSE",
       "valuesByMode": [
         {
           "modeIds": ["modeId-light"],
           "value": {
-            "value": "color(display-p3 1 0 0)"
+            "value": "color(display-p3 0 1 1)"
           }
         }
       ]
